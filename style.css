@@ -4,10 +4,6 @@ body{
     align-items: center;
 }
 
-.input-container{
-    display: flex;
-}
-
 .container{
     display: flex;
     flex-wrap: wrap;
@@ -17,6 +13,6 @@ body{
 
 .square{
     background-color: #7f7f7f;
-    height: 25px;
-    width: 25px;
+    /*height: 25px;
+    width: 25px;*/
 }
